@@ -1,0 +1,14 @@
+.blogitem {
+    margin: 20px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.blogContainer h1 {
+    font-family: 'Fira Sans', sans-serif;
+    margin: 23px;
+}
+
+.blogitem p {
+    font-family: 'Source Code Pro', monospace;
+
+}
